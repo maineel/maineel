@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @neel
-- 👀 I’m interested in ... (l)earning
+- 👀 I’m interested in ... (L)earning
 - 🌱 I’m currently learning ... Git & GitHub
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... 
