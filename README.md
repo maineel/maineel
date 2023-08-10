@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @neel
 - 👀 I’m interested in ... (L)earning
-- 🌱 I’m currently learning ... Git & GitHub
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... 
+- 🌱 I’m currently learning ... Data Structures & Algorithms
+- 📫 How to reach me ...
+neelxdxd@gmail.com
+neel.s2@ahduni.edu.in
 
 <!---
 maineel/maineel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
