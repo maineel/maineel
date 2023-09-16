@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... (L)earning
 - 🌱 I’m currently learning ... Data Structures & Algorithms
 - 📫 How to reach me ...
-neelxdxd@gmail.com
+neelxdxd@gmail.com |
 neel.s2@ahduni.edu.in
 
 <!---
