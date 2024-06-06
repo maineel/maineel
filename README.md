@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @neel
-- 👀 I’m interested in ... (L)earning
+- 👀 I’m interested in Server side development
 - 🌱 I’m currently learning ... Data Structures & Algorithms
 - 📫 How to reach me ...
 neelxdxd@gmail.com |
